@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+html{
+background: linear-gradient(to right, #0e0251, #080033);
+overflow-y: hidden;
+}
